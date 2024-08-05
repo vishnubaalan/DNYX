@@ -1,0 +1,19 @@
+.button-container {
+    display: flex;
+    gap: 10px; /* Space between buttons */
+}
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+}
+a {
+    text-decoration: none;
+}
+
+ul, ol {
+    margin: 20px 0;
+}
