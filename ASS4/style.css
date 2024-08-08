@@ -1,0 +1,134 @@
+
+
+
+.box7{
+    width: 330px;
+    height: 50px;
+    padding: 0px;
+    top: 20px;
+    margin: 540px auto ; 
+    border: 1px solid #ffffff; 
+    border-radius: 18px;
+    background-color: #ffffff;
+    position:absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.box6{
+    width: 280px;
+    height: 60px;
+    padding: 0px;
+    top: 30px;
+    margin: 440px auto ; 
+    border: 1px solid #47a3f3; 
+    border-radius: 8px;
+    background-color: #47a3f3;
+    position:absolute;
+    left: 52%;
+    transform: translateX(-50%);
+}
+.box5{
+    width: 280px;
+    height: 60px;
+    padding: 0px;
+    top: 20px;
+    margin: 360px auto ; 
+    border: 1px solid #52606d; 
+    border-radius: 8px;
+    background-color: #52606d;
+    position:absolute;
+    left: 48%;
+    transform: translateX(-50%);
+}
+
+.box4{
+    width: 280px;
+    height: 60px;
+    padding: 0px;
+    top: 30px;
+    margin: 260px auto ; 
+    border: 1px solid #47a3f3; 
+    border-radius: 8px;
+    background-color: #47a3f3;
+    position:absolute;
+    left: 52%;
+    transform: translateX(-50%);
+}
+
+.box3{
+    width: 280px;
+    height: 60px;
+    padding: 0px;
+    top: 20px;
+    margin: 180px auto ; 
+    border: 1px solid #52606d; 
+    border-radius: 8px;
+    background-color: #52606d;
+    position:absolute;
+    left: 48%;
+    transform: translateX(-50%);
+}
+
+.box2 {
+    width: 280px;
+    height: 60px;
+    padding: 0px;
+    top: 30px;
+    margin: 80px auto ; 
+    border: 1px solid #47a3f3; 
+    border-radius: 8px;
+    background-color: #47a3f3;
+    position:absolute;
+    left: 52%;
+    transform: translateX(-50%);
+}
+
+.box1 {
+    width: 357px;
+    height: 70px;
+    padding: 0px;
+    margin: 0px auto;
+    border: 1px solid #323f4b;
+    background-color: #323f4b;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.bgimg {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 0%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+}
+
+h3 {
+    text-align: center;
+    font-size: small;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+}
+h4{
+    text-align: center;
+    font-size: small;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gray;
+}
+
+
+
